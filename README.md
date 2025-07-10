@@ -1,3 +1,6 @@
+
+<img width="300" height="173" alt="CAS_PREF_3C_RGB_POS (4)" src="https://github.com/user-attachments/assets/955fa8ff-d341-429b-bfaa-a1cbed475a4f" />
+
 # CAS API
 
 The CAS API supports workflow integration, chemical research, machine learning, and cheminformatics.  Learn more about workflow integration solutions from __[CAS Custom Services℠](https://www.cas.org/solutions/cas-custom-services/workflow-integration).__
