@@ -1,8 +1,11 @@
-# CAS API
+
+<img width="300" height="173" alt="CAS_PREF_3C_RGB_POS (4)" src="https://github.com/user-attachments/assets/955fa8ff-d341-429b-bfaa-a1cbed475a4f" />
+
+# CAS Integration API
 
 The CAS API supports workflow integration, chemical research, machine learning, and cheminformatics.  Learn more about workflow integration solutions from __[CAS Custom Services℠](https://www.cas.org/solutions/cas-custom-services/workflow-integration).__
 
-## CAS API Demo for server-to-server integration
+## CAS Integration API Demo for server-to-server integration
 
 The Juyter Notebook files in this demo are meant to demonstrate how to invoke the CAS API in a server-to-server use case.  For this case, the API implements the 'Client Credentials Flow' as described here: [Client Credentials Flow](https://oauth.net/2/grant-types/client-credentials/)
 
